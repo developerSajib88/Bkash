@@ -52,7 +52,7 @@ class _MyWidgetState extends State<MyWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("SSL_Commerz"),
+        title: const Text("Bkash Payment"),
         centerTitle: true,
       ),
       body: SafeArea(
